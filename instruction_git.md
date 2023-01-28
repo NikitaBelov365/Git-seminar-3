@@ -22,25 +22,25 @@ To add/delete/change file content before commiting use:
 
 To record changes to repository and to assign unique number to index use:
 
-    commit
+    git commit
 
 ## Adding commit message
 
 To bind some message as a commit message use:
 
-    commit -m 'message'
+    git commit -m 'message'
 
 ## Merging add + commit in one command
 
 If you need to instantly commit added changes use:
 
-    commit -a
+    git commit -a
 
 ## Merging add + commit + message in one command
 
 Best way to instantly commit changes that you added and to apply some description is using next command:
 
-    commit -am 'message'
+    git commit -am 'message'
 
 ## Listing commits
 
