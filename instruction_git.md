@@ -42,3 +42,8 @@ Best way to instantly commit changes that you added and to apply some descriptio
 
     commit -am 'message'
 
+## Listing commits
+
+To list commits that are reachable by following the **parent** links from the given commit(s) use:
+
+    git log
