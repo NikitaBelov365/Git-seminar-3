@@ -47,3 +47,24 @@ Best way to instantly commit changes that you added and to apply some descriptio
 To list commits that are reachable by following the **parent** links from the given commit(s) use:
 
     git log
+
+## Log flags
+
+### Displaying logs in compact format
+
+To view commit log in compact format use next flag:
+
+    git log --oneline
+
+### Listing all commits
+
+To list all commits including those that were made after HEAD use:
+
+    git log --all
+
+### Listing all commits in compact format
+
+If you want to see all commits that made before and after HEAD in compact format use:
+
+    git log --all --oneline
+    
