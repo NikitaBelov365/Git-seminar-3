@@ -68,3 +68,9 @@ If you want to see all commits that made before and after HEAD in compact format
 
     git log --all --oneline
     
+## Displaying difference between actual index and last commit
+
+To show changes between actual index and last commit use next command:
+
+    git diff
+
