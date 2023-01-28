@@ -1,7 +1,5 @@
 # Git instruction
 
-Тут будет общая информация про Git...
-
 ## New repository created
 
 To initialize new repository use:
@@ -13,4 +11,3 @@ To initialize new repository use:
 To check current repository status use:
 
     git status
-    
