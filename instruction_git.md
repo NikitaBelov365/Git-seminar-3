@@ -74,3 +74,8 @@ To show changes between actual index and last commit use next command:
 
     git diff
 
+## Switching branches
+
+To switch branch by the commit number use:
+
+    git checkout commit_number
