@@ -13,3 +13,4 @@ To initialize new repository use:
 To check current repository status use:
 
     git status
+    
