@@ -90,3 +90,11 @@ To switch branch by the commit number use:
 To view all branches in repository you need to enter:
 
     git branch
+
+### Branches adding
+
+To add new branch use:
+
+    git branch <branch_name>
+
+\<branch_name\> - new branch name
