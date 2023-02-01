@@ -83,3 +83,10 @@ To switch branch by the commit number use:
     git checkout commit_number
 
 ## Git branches
+
+
+### All branches viewing
+
+To view all branches in repository you need to enter:
+
+    git branch
