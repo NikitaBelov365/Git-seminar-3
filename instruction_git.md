@@ -84,4 +84,9 @@ To switch branch by the commit number use:
 
 ## Git branches
 
-fasdkhnmuavsh
+
+### All branches viewing
+
+To view all branches in repository you need to enter:
+
+    git branch
