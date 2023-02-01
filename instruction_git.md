@@ -1,5 +1,7 @@
 # Git instruction
 
+![image](image.jpg)
+
 ## New repository created
 
 To initialize new repository use:
