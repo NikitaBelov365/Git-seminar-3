@@ -91,4 +91,10 @@ To view all branches in repository you need to enter:
 
     git branch
 
-### Info about creating new branch
+### Branches adding
+
+To add new branch use:
+
+    git branch <branch_name>
+
+\<branch_name\> - new branch name
