@@ -105,3 +105,7 @@ Incorporates changes from the named commits (since the time their histories dive
 Command to use: 
 
     git merge branch_name
+
+### Merging conflict
+
+Some text
