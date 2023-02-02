@@ -105,3 +105,7 @@ Incorporates changes from the named commits (since the time their histories dive
 Command to use: 
 
     git merge branch_name
+
+### Merging conflict
+
+During a merge, the working tree files are updated to reflect the result of the merge. Among the changes made to the common ancestor’s version, non-overlapping ones (that is, you changed an area of the file while the other side left that area intact, or vice versa) are incorporated in the final result verbatim. When both sides made changes to the same area, however, Git cannot randomly pick one side over the other, and asks you to resolve it by leaving what both sides did to that area.
