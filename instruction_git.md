@@ -115,3 +115,5 @@ During a merge, the working tree files are updated to reflect the result of the 
 Draw a text-based graphical representation of the commit history on the left hand side of the output. This may cause extra lines to be printed in between commits, in order for the graph history to be drawn properly.
 
 When --graph is not used, all history branches are flattened which can make it hard to see that the two consecutive commits do not belong to a linear branch. This option puts a barrier in between them in that case.
+
+## Thank you for attention :)
